@@ -62,7 +62,8 @@ Essas práticas têm escalado a produtividade de equipes e reduzido o acoplament
 - 💼 [LinkedIn]([https://www.linkedin.com/in/SEU-LINKEDIN](https://www.linkedin.com/in/eversonmendes301))
 - 📧 eversonsilva90@live.com
 - 🌎 Localização: Brasil
-
+- [![WhatsApp Icon](https://img.icons8.com/color/20/000000/whatsapp--v1.png) WhatsApp](https://api.whatsapp.com/send?phone=5543984458966&text&type=phone_number&app_absent=0)
+  
 ---
 
 > 🧠 _“A excelência está nos detalhes — seja na modelagem do banco ou na experiência do usuário.”_
